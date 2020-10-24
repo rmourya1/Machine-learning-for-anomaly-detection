@@ -1,6 +1,6 @@
 This project is completed as part of a thesis submitted to Deakin University.
 
-We have utilized DS2OS and NSLKDD+ data for analysis of five different classification methods to detect anomalies in network traffic dataset. We have re-implemented method proposed by Hasan et al. (2019) to detect anomalies in IoT sensor network data and NSLKDD dataset. The anomalies in the datasets are cyber attacks. We have used multinominal classification in this implementation.
+I have utilized DS2OS and NSLKDD+ data for analysis of five different classification methods to detect anomalies in network traffic dataset. I have re-implemented method proposed by Hasan et al. (2019) to detect anomalies in IoT sensor network data and NSLKDD dataset. The anomalies in the datasets are cyber attacks. Multinomial classification was predicted in this implementation.
  
 Machine learning techniques used:
 Logistic Regression,
